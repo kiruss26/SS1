@@ -9,8 +9,7 @@ function init() {
 
 setTimeout(function() {
     robot.update();
-	
-}, 50);  
+}, 100);  
    
 var mainArea = {
     canvas : document.createElement("canvas"),
